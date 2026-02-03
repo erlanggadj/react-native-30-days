@@ -43,3 +43,7 @@ if (true) {
 
 // UNCOMMENT baris ini untuk lihat error
 // console.log(message)
+
+console.log("Result:", 10 + 5)
+console.log("Result:" + 10 + 5)
+console.log(`Result: ${10 + 5}`)
